@@ -1,0 +1,144 @@
+body{
+	background-color: #888888;
+}
+
+/*navbar-items*/
+.navbar-nav:hover .nav-item:hover .nav-link:hover {
+    color: #FFC38B;
+}
+
+button.login-button {
+	box-shadow: 2px 2px 4px 0px #434d40;
+	background-color: #FFC38B;
+	border-radius:14px;
+	border:2px solid #343d35;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-size:20px;
+	padding:8px 20px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #000000;
+	margin: 2px;
+}
+
+.login-button:hover {
+	background-color:black;
+	color: #FFC38B;
+}
+
+.login-button:active {
+	background-color: black;
+	color: #FFC38B;
+	position:relative;
+	top:1px;
+}
+
+
+.navbar-nav > li {
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.z-logo {
+	color: #FFC38B;
+}
+
+.bg-box{
+	color: white;
+	border-radius: 10px;
+	padding: 20px;
+	margin-top: 6%;
+	width: 50%;
+}
+
+.paragraph{
+	color: white;
+	font-size: 22px;
+}
+
+.all-images{
+	border-radius: 10px;
+	border:2px solid #FFC38B;
+}
+
+.heading-box{
+	background-color: #FFC38B;
+	width: 80%;
+	border-radius: 10px;
+}
+
+.check-out-button{
+	background-color: #888888;
+	border-color: #888888;
+	box-shadow: 2px 2px 4px 0px #434d40;
+	border-radius:14px;
+	font-size:20px;
+}
+
+.check-out-button:hover{
+	background-color: #FFC38B;
+	border-color: #888888;
+	color: black;
+}
+
+.check-out-button:active{
+	background-color: black;
+	border-color: #888888;
+	color: white;
+}
+
+#browse-text{
+	font-weight: bold;
+}
+
+#browse-button{
+	background-color: #FFC38B;
+}
+
+#browse-button {
+	font-weight: bold;
+	box-shadow: 2px 2px 4px 0px #434d40;
+	background-color: #FFC38B;
+	border-radius:14px;
+	border:2px solid #343d35;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-size:20px;
+	padding:8px 20px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #000000;
+	margin: 2px;
+}
+
+#browse-button:hover {
+	background-color:black;
+	color: #FFC38B;
+}
+
+#browse-button:active {
+	background-color: black;
+	color: #FFC38B;
+	position:relative;
+	top:1px;
+}
+
+hr{
+	border: 0.6px solid #FFC38B;
+	width: 55%;
+}
+
+.description-box{
+	background-color: #FFC38B;
+	border-radius: 10px;
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+.footer{
+	background-color: #FFC38B;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
